@@ -1,3 +1,4 @@
+#pragma once
 struct fnv1a_32 {
     uint32_t sum32a;
 };
